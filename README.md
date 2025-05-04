@@ -1,8 +1,15 @@
-#Notes
-We (Sukina Neko's Team) Share the Script For Free but Remember this :
-1. DO NOT Sale or/and Give the Script to Anyone
-   -Share them this Link Instead
-2. We DO NOT give any Tutorial
-3. We DO NOT taking any Pull request
-4. HACKING other's Bot or even My Bot with this Script will getting serious Punishment
-5. Our Models is only Stable to Discord Server Sukina Neko. Change the Script by Yourself
+# Credit to: Renren
+
+# Check: https://cladio-one.ct.ws
+
+# TikTok: @Ayniman4
+
+# Notes
+
+We (Sukina Neko's Team) share the script for free, but remember this:
+1. DO NOT sell or give the script to anyone.
+   - Share this link instead.
+2. We DO NOT provide any tutorials.
+3. We DO NOT accept any pull requests.
+4. Hacking others' bots or even my bot with this script will result in serious punishment.
+5. Our models are only stable for the Discord server Sukina Neko. Modify the script yourself if needed.
